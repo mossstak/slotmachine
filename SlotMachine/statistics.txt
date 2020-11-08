@@ -1,0 +1,7 @@
+The total number of Losses: 0
+The total number of Spins: 1
+The average number of credits: 1
+Total Number Of Matches: 1
+Money: $10
+Date: 2017-12-10
+Time: 21:43:57.337
